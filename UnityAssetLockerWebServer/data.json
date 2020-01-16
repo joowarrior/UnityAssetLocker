@@ -1,0 +1,127 @@
+{
+  "guid1": {
+    "Guid": "guid1",
+    "Locked": true,
+    "Holder": "holder"
+  },
+  "guid3": {
+    "Guid": "guid3",
+    "Locked": true,
+    "Holder": "holder"
+  },
+  "guid6": {
+    "Guid": "guid6",
+    "Locked": false,
+    "Holder": ""
+  },
+  "guid12": {
+    "Guid": "guid12",
+    "Locked": false,
+    "Holder": ""
+  },
+  "guid132": {
+    "Guid": "guid132",
+    "Locked": false,
+    "Holder": ""
+  },
+  "guid44132": {
+    "Guid": "guid44132",
+    "Locked": false,
+    "Holder": ""
+  },
+  "": {
+    "Guid": "",
+    "Locked": false,
+    "Holder": ""
+  },
+  "d120ca70aebff4b3c862dedf3ec3a6fd": {
+    "Guid": "d120ca70aebff4b3c862dedf3ec3a6fd",
+    "Locked": true,
+    "Holder": "JJY"
+  },
+  "0e2f92279bece4edf832a1d143f69619": {
+    "Guid": "0e2f92279bece4edf832a1d143f69619",
+    "Locked": false,
+    "Holder": ""
+  },
+  "77e24b89b433f4f37856a542d0cd5e6e": {
+    "Guid": "77e24b89b433f4f37856a542d0cd5e6e",
+    "Locked": false,
+    "Holder": ""
+  },
+  "aadfe88efd2554bd09a636eb3de4452c": {
+    "Guid": "aadfe88efd2554bd09a636eb3de4452c",
+    "Locked": false,
+    "Holder": ""
+  },
+  "2cda990e2423bbf4892e6590ba056729": {
+    "Guid": "2cda990e2423bbf4892e6590ba056729",
+    "Locked": false,
+    "Holder": ""
+  },
+  "0df8e3466fbe54c9ba74eba340b05e65": {
+    "Guid": "0df8e3466fbe54c9ba74eba340b05e65",
+    "Locked": false,
+    "Holder": ""
+  },
+  "eed453a1fef8d4cffaef1f4fb3740d80": {
+    "Guid": "eed453a1fef8d4cffaef1f4fb3740d80",
+    "Locked": false,
+    "Holder": ""
+  },
+  "4a2b588ad6b47402190dfae5e643c015": {
+    "Guid": "4a2b588ad6b47402190dfae5e643c015",
+    "Locked": false,
+    "Holder": ""
+  },
+  "d72f6c637d4d34d899e1e919aa7e6dc1": {
+    "Guid": "d72f6c637d4d34d899e1e919aa7e6dc1",
+    "Locked": false,
+    "Holder": ""
+  },
+  "f96213336e01044ab8e86ee9b164496b": {
+    "Guid": "f96213336e01044ab8e86ee9b164496b",
+    "Locked": false,
+    "Holder": ""
+  },
+  "480e65667242c41c5b311c380abac711": {
+    "Guid": "480e65667242c41c5b311c380abac711",
+    "Locked": false,
+    "Holder": ""
+  },
+  "1b2bb8ae1693c47aaab314b1af3f3dcd": {
+    "Guid": "1b2bb8ae1693c47aaab314b1af3f3dcd",
+    "Locked": false,
+    "Holder": ""
+  },
+  "e031d760d6f504d3281b0bda7235692f": {
+    "Guid": "e031d760d6f504d3281b0bda7235692f",
+    "Locked": false,
+    "Holder": ""
+  },
+  "6a0b17116733249759dee30c75e2b01d": {
+    "Guid": "6a0b17116733249759dee30c75e2b01d",
+    "Locked": false,
+    "Holder": ""
+  },
+  "269748267ee484f99b496097feabf1a3": {
+    "Guid": "269748267ee484f99b496097feabf1a3",
+    "Locked": false,
+    "Holder": ""
+  },
+  "5cf75bb8e793845bdba493a16535a9a5": {
+    "Guid": "5cf75bb8e793845bdba493a16535a9a5",
+    "Locked": false,
+    "Holder": ""
+  },
+  "424bd03df0c3144f28f7ab6b1081423e": {
+    "Guid": "424bd03df0c3144f28f7ab6b1081423e",
+    "Locked": false,
+    "Holder": ""
+  },
+  "dadf9f61cfe5b4ed49f6f55d50cfe334": {
+    "Guid": "dadf9f61cfe5b4ed49f6f55d50cfe334",
+    "Locked": false,
+    "Holder": ""
+  }
+}
