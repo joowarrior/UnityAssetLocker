@@ -23,3 +23,4 @@ if asset is locked by someone, you can not edit it
 
 ## Supported far far away later
 1. mix with git.... i want to... but difficult to me...
+2. branch
