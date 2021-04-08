@@ -22,5 +22,5 @@ if asset is locked by someone, you can not edit it
 3. very old locked assets will be auto unlocked
 
 ## Supported far far away later
-1. mix with git.... i want to... but difficult to me...
+1. mix with git...
 2. branch
